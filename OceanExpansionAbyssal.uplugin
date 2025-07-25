@@ -1,0 +1,19 @@
+{
+    "FileVersion": 3,
+    "Version": 1,
+    "VersionName": "1.0.0",
+    "FriendlyName": "Ocean Expansion Abyssal",
+    "Description": "Adds hostile sea monsters and deep ocean flora. / Agrega monstruos marinos hostiles y flora abisal recolectable.",
+    "Category": "Gameplay",
+    "CreatedBy": "Irvin V\u00e1squez",
+    "CreatedByURL": "https://ficsit.app",
+    "Modules": [
+        {
+            "Name": "OceanExpansionAbyssal",
+            "Type": "Runtime",
+            "LoadingPhase": "Default"
+        }
+    ],
+    "SMLVersion": "3.5.1",
+    "ModReference": "Ocean Expansion Abyssal"
+}
